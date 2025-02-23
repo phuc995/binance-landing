@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hướng Dẫn Đăng Ký & Giao Dịch Trên MEXC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .btn {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .btn:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hướng Dẫn Đăng Ký & Giao Dịch Trên MEXC</h1>
+        
+        <h2>1. Đăng ký tài khoản MEXC</h2>
+        <p>Để bắt đầu, hãy đăng ký tài khoản bằng link ref bên dưới:</p>
+        <a class="btn" href="https://www.mexc.com/vi-VN/login?inviteCode=mexc-12RdP8" target="_blank">Đăng ký ngay</a>
+        
+        <h2>2. Xác minh danh tính (KYC)</h2>
+        <p>Sau khi đăng ký, bạn cần xác minh danh tính:</p>
+        <ul>
+            <li>Đăng nhập vào MEXC</li>
+            <li>Vào phần <strong>Hồ sơ cá nhân</strong> → <strong>Xác minh danh tính</strong></li>
+            <li>Nhập thông tin cá nhân và tải lên ảnh CMND/CCCD</li>
+            <li>Chờ xét duyệt (thường mất vài phút đến vài giờ)</li>
+        </ul>
+        
+        <h2>3. Thêm tài khoản ngân hàng</h2>
+        <p>Để giao dịch P2P, bạn cần thêm tài khoản ngân hàng:</p>
+        <ul>
+            <li>Vào mục <strong>Quản lý thanh toán</strong></li>
+            <li>Chọn <strong>Thêm phương thức thanh toán</strong></li>
+            <li>Nhập thông tin tài khoản ngân hàng và lưu lại</li>
+        </ul>
+        
+        <h2>4. Mua USDT qua P2P</h2>
+        <ul>
+            <li>Chọn <strong>Mua Crypto</strong> → <strong>P2P</strong></li>
+            <li>Chọn người bán uy tín và nhập số lượng USDT</li>
+            <li>Chuyển khoản theo hướng dẫn và xác nhận thanh toán</li>
+        </ul>
+        
+        <h2>5. Mua bán coin trên Spot & Future</h2>
+        <h3>Mua bán trên Spot</h3>
+        <ul>
+            <li>Chuyển USDT vào ví Spot</li>
+            <li>Vào mục <strong>Giao dịch Spot</strong></li>
+            <li>Chọn cặp giao dịch (VD: BTC/USDT), đặt lệnh mua hoặc bán</li>
+        </ul>
+        
+        <h3>Giao dịch Future</h3>
+        <ul>
+            <li>Chuyển tiền vào ví Futures</li>
+            <li>Chọn đòn bẩy và đặt lệnh (Long/Short)</li>
+            <li>Quản lý rủi ro bằng Stop-Loss và Take-Profit</li>
+        </ul>
+    </div>
+</body>
+</html>
